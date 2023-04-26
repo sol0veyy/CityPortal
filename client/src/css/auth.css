@@ -1,0 +1,14 @@
+.auth {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color:#E4ECFD;
+}
+
+.blockAuth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    background-color: white;
+}
